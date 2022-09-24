@@ -1,10 +1,7 @@
 ### Hi there, I'm Urich 🤩
 
 - 🌎 I’m currently learning C#, C++, Java, JavaScript, Node.JS, HTML5/CSS3, SQL Server.
-- 📖 Studiyng data processing at Colégio Técnico de Campinas - Unicamp
-
-### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+- 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/BennethUrich?label=Follow&style=social" height="22" title="Follow me"/>
 <img align="right" alt="urichLindinho" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/684058_7NjshUPC.png"?width=1000&height=1000">
