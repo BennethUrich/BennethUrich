@@ -21,9 +21,11 @@
   <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF">                                      
 </div>
 
-| [📈 Github Profile Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) |
+##
+
+| [📈 Github Profile Stats](https://github.com/BennethUrich/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/BennethUrich/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=BennethUrich&show_icons=true&theme=chartreuse-dark" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennethUrich&theme=chartreuse-dark&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=BennethUrich&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennethUrich&theme=highcontrast&layout=compact" /> |
 
 <div align="center">
 
