@@ -29,7 +29,7 @@
   <img alt="mongo" src = "https://img.shields.io/badge/-MongoDB-37a336?style=flat-square&logo=mongodb&logoColor=white">
 </div>
 
-## Tools🔌
+## 🔌Tools
 
 <div style="display: center">
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
@@ -53,7 +53,7 @@
 | :---: | :---: |
 | <img height="180" src="https://github-readme-stats.vercel.app/api?username=BennethUrich&show_icons=true&theme=github_dark" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennethUrich&theme=github_dark&layout=compact" /> |
 
-## Spotify Account💿
+## 💿Spotify Account
 
 <div align="center">
 
