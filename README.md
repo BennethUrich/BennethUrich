@@ -51,7 +51,7 @@
 
 | [📈 Github Profile Stats](https://github.com/BennethUrich/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/BennethUrich/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=BennethUrich&show_icons=true&theme=midnight-purple" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennethUrich&theme=midnight-purple&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=BennethUrich&show_icons=true&theme=github_dark" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennethUrich&theme=github_dark&layout=compact" /> |
 
 ## Spotify Account💿
 
