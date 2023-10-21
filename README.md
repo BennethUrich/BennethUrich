@@ -53,11 +53,4 @@
 | :---: | :---: |
 | <img height="180" src="https://github-readme-stats.vercel.app/api?username=BennethUrich&show_icons=true&theme=github_dark" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennethUrich&theme=github_dark&layout=compact" /> |
 
-## 💿Spotify Account
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ckqp6wcygrmifjg3oxsw3omjuy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
-
 </div>
